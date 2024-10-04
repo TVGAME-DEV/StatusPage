@@ -1,4 +1,7 @@
+
 {
+    "description": "Only WebSite Status",
+    "description": "OnlyUDP",
     "services": {
         "Website": "https://example.com",
         "GamePanel": "https://panel.example.com"
